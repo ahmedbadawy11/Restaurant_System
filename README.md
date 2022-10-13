@@ -4,6 +4,9 @@ POS &amp; Restaurant Management System
 ## Description
 this is point of sales  and management system for Restaurants use to refer to the cash register 
 
+## using
+C#, MySQL and Crystal Report
+
 
 ## Dashboard
 ![Dashboard](https://github.com/ahmedbadawy11/Restaurant_System/blob/main/Image/Res_System_dashboard.png)
