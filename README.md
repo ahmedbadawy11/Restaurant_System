@@ -2,7 +2,26 @@
 POS &amp; Restaurant Management System
 
 ## Description
-this is point of sales  and management system for Restaurants use to refer to the cash register 
+Welcome to the ultimate solution for restaurant management! I offer a comprehensive Restaurant Point of Sale (POS) Desktop Application developed using the power of C# programming language, Microsoft SQL Server, and Crystal Reports. With a user-friendly interface and robust features, my application streamlines your restaurant's operations, making managing orders, tracking inventory, and analyzing sales a breeze.
+
+## Key Features:
+
+- User-Friendly Interface: Navigate and manage your restaurant operations effortlessly with an intuitive and user-friendly interface. 
+
+- Support for Diverse Orders: Seamlessly handle dine-in, take-away, and delivery orders, ensuring your customers' preferences are met.
+
+- Order Tracking: Keep a close eye on each order's status, from placement to preparation and delivery, ensuring timely service.
+
+- Efficient Product Management: Easily add, update, and categorize products on your menu, keeping it organized and up-to-date.
+
+- Flexible Pricing: Add fees to products and modify them as needed, providing you the flexibility to adapt to changing market conditions.
+
+- Kitchen Order Management: Orders are sent directly to the kitchen, optimizing workflow and minimizing delays in food preparation.
+
+- Comprehensive Reports: Gain valuable insights into your business with detailed sales, savings, and various other reports that can be viewed, saved, and printed for analysis.
+
+- Multi-User Support: Collaborate effectively with your team using the application, each user having their own personalized settings and access levels.
+
 
 ## using
 C#, MySQL and Crystal Report
